@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba👋, ben Emre</h1>
-- 📫 **emreoz-turk@outlook.com**
+- 📫 <b>emreoz-turk@outlook.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
