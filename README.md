@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba👋, ben Emre</h1>
+<h1 align="center">Hi there 👋</h1>
 - 📫 <b>emreoz-turk@outlook.com</b>
 
 <h3 align="left">Connect with me:</h3>
